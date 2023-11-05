@@ -74,3 +74,6 @@ Make your changes and test them.
 Commit your changes with clear messages.
 Push your branch to your fork.
 Submit a pull request to the main repository.
+
+## NOTE
+this version is not final. I need to fix the backup and restore it in the future. sometimes there is some error in docker saying "flask-cors not installed" even though I put it in requirement.txt.
