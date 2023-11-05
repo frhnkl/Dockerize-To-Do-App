@@ -12,7 +12,7 @@ b. Docker Compose
 
 ```bash
 Copy code
-git clone https://github.com/yourusername/Dockerize-To-Do-App.git
+git clone https://github.com/frhnkl/Dockerize-To-Do-App.git
 ```
 2. Change into the project directory:
 
@@ -39,6 +39,9 @@ Copy code
 docker-compose up -d
 ```
 This command will start the Flask app and the associated database.
+![Screenshot 2023-11-05 220025](https://github.com/frhnkl/Dockerize-To-Do-App/assets/125452431/0867353d-ff90-4ee7-8d3c-89a880def88b)
+
+
 
 ### Accessing the App
 Once the app is up and running, you can access it in your web browser at http://localhost:5000.
